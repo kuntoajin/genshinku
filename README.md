@@ -1,1 +1,1 @@
-# genshinku
+# Hello genshin fans
